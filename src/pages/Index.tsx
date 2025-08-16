@@ -6,7 +6,7 @@ const Index = () => {
   return (
     <>
       <Navigation />
-      <div className="min-h-screen flex items-center justify-center p-6">
+      <div className="min-h-screen flex items-center justify-center p-6 relative">
       <main className="max-w-2xl w-full animate-fadeIn">
         <div className="glass p-8 rounded-2xl space-y-8">
           <div className="space-y-4">
@@ -28,6 +28,16 @@ const Index = () => {
           </nav>
         </div>
       </main>
+      
+      {/* Hidden easter egg link */}
+      <a
+        href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="fixed bottom-6 right-6 text-white hover:text-primary transition-colors duration-300 text-sm opacity-0 hover:opacity-100"
+      >
+        ?
+      </a>
     </div>
     </>
   );
