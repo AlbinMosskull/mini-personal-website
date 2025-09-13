@@ -21,17 +21,17 @@ const ProjectShowcase = () => {
             
             <div className="space-y-6 text-center">
               <h1 className="text-4xl font-bold tracking-tight">
-                Project Showcase
+                Arbitrary Project Showcase
               </h1>
               <p className="text-secondary/90 leading-relaxed">
-                Watch our robotic solutions in action
+                Our project from the Mistral AI Hackaton, End-to-end ML controlled robot.
               </p>
               
               <div className="w-full max-w-3xl mx-auto">
                 <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
                   <iframe 
                     className="absolute top-0 left-0 w-full h-full rounded-xl"
-                    src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+                    src="https://www.youtube.com/embed/TfWXdF7YVUo?si=OOUqSpFGennSYakv"
                     title="Project Showcase Video"
                     frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

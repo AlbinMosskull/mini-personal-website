@@ -31,7 +31,7 @@ const Index = () => {
       
       {/* Hidden easter egg link */}
       <a
-        href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        href="https://www.youtube.com/watch?v=p_iZgPhPTFg"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 text-white hover:text-primary transition-colors duration-300 text-sm opacity-0 hover:opacity-100"

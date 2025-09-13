@@ -24,15 +24,15 @@ const Personal = () => {
                 Personal
               </h1>
               <p className="text-secondary/90 leading-relaxed">
-                A glimpse into my journey and philosophy
+                6C at Klättercentret Solna!
               </p>
               
               <div className="w-full max-w-3xl mx-auto">
                 <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
                   <iframe 
                     className="absolute top-0 left-0 w-full h-full rounded-xl"
-                    src="https://www.youtube.com/embed/dQw4w9WgXcQ"
-                    title="Personal Journey Video"
+                    src="https://www.youtube.com/embed/-0RUZ4giTJQ?si=Z1BdfDmRN8ZLPJyx"
+                    title=""
                     frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
