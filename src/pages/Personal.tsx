@@ -24,14 +24,14 @@ const Personal = () => {
                 Personal
               </h1>
               <p className="text-secondary/90 leading-relaxed">
-                6C at Klättercentret Solna!
+                Vasaloppet 45, 2026
               </p>
               
               <div className="w-full max-w-3xl mx-auto">
                 <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
                   <iframe 
                     className="absolute top-0 left-0 w-full h-full rounded-xl"
-                    src="https://www.youtube.com/embed/-0RUZ4giTJQ?si=Z1BdfDmRN8ZLPJyx"
+                    src="https://www.youtube.com/embed/lUDA6XM38-E?si=wpmjmGEfjZODrNEK"
                     title=""
                     frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
